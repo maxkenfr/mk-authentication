@@ -1,0 +1,12 @@
+{
+  "name": "mk-authentication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maxkenfr/mk-authentication.git",
+  "author": "maxbryselbout <max@maxken.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "lru-cache": "^5.1.1"
+  }
+}
